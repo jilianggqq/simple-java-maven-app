@@ -12,6 +12,7 @@ import static org.junit.Assert.*;
  * 
  * // test 1
  * // test 2
+ * // test by dev2 1345
  */
 public class AppTest
 {
