@@ -6,4 +6,5 @@ package com.mycompany.app;
 public class App2
 {
 // word1
+// word2
 }
